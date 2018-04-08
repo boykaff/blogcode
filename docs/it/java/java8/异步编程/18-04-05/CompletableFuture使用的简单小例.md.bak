@@ -138,7 +138,7 @@ long startTime = System.currentTimeMillis();
 
 
 #### 2. 下一步
-Java8的异步编程用着是很爽，希望能在下一篇博客中进一步了解：
+Java8的异步编程用着是很爽，这一篇博客仅简单试用了一下8中异步编程的几个常用的API，希望能在下一篇中进一步了解：
 
 - 理清CompletableFuture的家族史
 - 对CompletableFuture多达50个的API的特性进行分析

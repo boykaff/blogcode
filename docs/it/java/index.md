@@ -13,3 +13,4 @@
 - [lambda原理篇(译)](java8/lambda/18-03-07/lambda原理篇(译).md) 
 
 - [CompletableFuture使用的简单小例](java8/异步编程/18-04-05/CompletableFuture使用的简单小例.md)
+- [CompletableFuture浅入浅出](java8/异步编程/18-04-06/CompletableFuture浅入浅出.md)

@@ -4,6 +4,7 @@
 
 18/04
 
+- [CompletableFuture浅入浅出](it/java/java8/异步编程/18-04-06/CompletableFuture浅入浅出.md)
 - [CompletableFuture使用的简单小例](it/java/java8/异步编程/18-04-05/CompletableFuture使用的简单小例.md)
 
 

@@ -17,6 +17,7 @@ pages:
                 - stream流浅析-1: it/java/java8/stream/18-03-10/stream流浅析-1.md
             - 异步编程:
                 - CompletableFuture使用的简单小例: it/java/java8/异步编程/18-04-05/CompletableFuture使用的简单小例.md
+                - CompletableFuture浅入浅出: it/java/java8/异步编程/18-04-06/CompletableFuture浅入浅出.md
     - tools:
         - tools index: it/tools/index.md
         - postman:
